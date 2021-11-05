@@ -8,6 +8,8 @@ After saying a pack of useless words, nice to meet you, stranger!
 I'm @nwkman, a cyber-identity of another random guy in real life. For some reasons they don't want to use their
 own identity when they are surfing on the internet.
 
+My information is given by the following lines of code:
+
 ```python
 languages_I_use = ['zh-cn', 'en-us', 'C', 'C++', 'Python']
 primary_language = languages_I_use[0]
