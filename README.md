@@ -14,6 +14,8 @@ primary_language = languages_I_use[0]
 pronouns = ['they', 'their', 'them', 'she', 'hers', 'her']
 hobbies = ('coding',)
 status = ['Preparing for NOIP']
+gender = {'cyber': 'female', 'irl': None}
+age = 15
 ```
 
 I speak poor English, by the way, 'cause I was born in a little city somewhere in China. Pointing out my grammar problems is welcomed.
