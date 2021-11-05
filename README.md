@@ -1,7 +1,9 @@
+> I don't know where my avatar comes from. It is welcomed to tell me its origin. Or for the worst case - I violated the author's copyright - I am glad to just change my avatar.
+
 Yeah - I know. You don't want to waste your time reading a LOOOOOOOONG README about a random guy you see on the internet.
 
-So umm, for a detailed version of this README, visit [Here](https://github.com/nwkman/nwkman/readme-detailed-en.md) for the English version or
-[Here](https://github.com/nwkman/nwkman/readme-detailed-zh.md) for the Chinese one.
+So umm, for a detailed version of this README, visit [Here](https://github.com/nwkman/nwkman/blob/main/readme-detailed-en.md) for the English version or
+[Here](https://github.com/nwkman/nwkman/blob/main/readme-detailed-zh.md) for the Chinese one.
 
 After saying a pack of useless words, nice to meet you, stranger!
 
