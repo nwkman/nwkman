@@ -15,8 +15,18 @@ sudo pacman -Sy NetworkManager
 def retrieveMySocialMediaAccount() -> None: return
 ```
 
-### Things I currently own / use
+### Devices I currently own / use
 `Lenovo V110-14AST` - my laptop. OSes running on it are:
 ```python
 ['Arch Linux', 'Ubuntu 20.04', 'Ubuntu 6.10', 'Windows 10']
 ```
+
+### More about me...
+Editors: `vim`, `geany`, `code`
+
+Languages I used to use: `javascript`, `css`, `html`
+
+sh: `zsh`
+
+### Wishlist
+- A new laptop with a better CPU, preferably with a better GPU and more ROM / RAM.
