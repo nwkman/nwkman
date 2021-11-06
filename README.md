@@ -22,6 +22,6 @@ gender = {'cyber': 'female', 'irl': None}
 age = 15
 ```
 
-I speak poor English, by the way, 'cause I was born in a little city somewhere in China. Pointing out my grammar problems is welcomed.
+I speak poor English, by the way, 'cause I was born in a little city somewhere in China. Pointing out my grammar problems is welcomed and appreciated.
 
 And that's all.
