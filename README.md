@@ -1,4 +1,4 @@
-> I don't know where my avatar comes from. It is welcomed to tell me its origin. Or for the worst case - I violated the author's copyright - I am glad to just change my avatar.
+> ~~I don't know where my avatar comes from. It is welcomed to tell me its origin. Or for the worst case - I violated the author's copyright - I am glad to just change my avatar.~~ Found! The source of my avatar would be [here](https://twitter.com/kasu1923/status/589386897685778432).
 
 Yeah - I know. You don't want to waste your time reading a LOOOOOOOONG README about a random guy you see on the internet.
 
